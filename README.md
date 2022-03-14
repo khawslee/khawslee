@@ -1,11 +1,8 @@
 ### Hi there, I'm Siang Lee, Khaw👋<div align = 'right'>![](https://komarev.com/ghpvc/?username=khawslee&color=green)</div>
 
-<p align="left">
-  <a href="https://github.com/khawslee?tab=repositories&sort=stargazers">
-</p>
-### I'm a Full stack Data Analyst and Technology Entusiast
-
 <img align="right" height="250px" width="250px" alt="GIF" src="animation_work.gif" />
+
+### I'm a Full stack Data Analyst and Technology Entusiast
 
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Computer vision
