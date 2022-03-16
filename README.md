@@ -1,6 +1,5 @@
-### Hi there, I'm Siang Lee, Khaw👋<div align = 'right'>![](https://komarev.com/ghpvc/?username=khawslee&color=green)</div>
-
-<img align="right" height="250px" width="250px" alt="GIF" src="animation_work.gif" />
+### Hi there, I'm Siang Lee, Khaw👋
+<img align="right" height="250px" width="250px" alt="GIF" src="animation_work.gif" />![](https://komarev.com/ghpvc/?username=khawslee&color=green)</div>
 
 ### I'm a Full stack Data Analyst and Technology Entusiast
 
