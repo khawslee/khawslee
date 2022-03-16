@@ -30,8 +30,8 @@
     <a href="#"><img alt="Intel XDK" src="https://img.shields.io/badge/Intel%20XDK-1f458e?logo=intel&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-018e36?logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Apache WebServer" src="https://img.shields.io/badge/Apache%20Web-e68822?logo=apache&logoColor=white"></a>
-    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-e78400?logo=vmware&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-228ee1?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-e78400?logo=vmware&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-3ba745.svg?logo=anaconda&logoColor=white"></a>    
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37726.svg?logo=Jupyter&logoColor=white"></a>
@@ -40,4 +40,30 @@
     <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/R%20Studio-2064b4?logo=rstudio&logoColor=white"></a>
     <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-2892e8?logo=WakaTime&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-e95723?logo=postman&logoColor=white"></a>
+</p>
+
+### Programming languages
+
+<p>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/Asp.net-175DDC.svg?logo=dotnet&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="#"><img alt="Pascal" src="https://img.shields.io/badge/Pascal-008080.svg?logo=Product%20Hunt&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/Processing-0564ff.svg?logo=processingfoundation&logoColor=white"></a>
 </p>
