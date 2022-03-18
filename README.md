@@ -67,3 +67,20 @@
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/Processing-0564ff.svg?logo=processingfoundation&logoColor=white"></a>
 </p>
+
+### Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-a61924.svg?logo=microsoftsqlserver&logoColor=white"></a>
+    <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-002d40.svg?logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-0979c5.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="ApacheHive" src ="https://img.shields.io/badge/Apache%20Hive-f0e21f.svg?logo=apachehive&logoColor=black"></a>
+    <a href="#"><img alt="ApacheSpark" src ="https://img.shields.io/badge/Apache%20Spark-d6551b.svg?logo=apachespark&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-e97b0a.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Cassandra" src ="https://img.shields.io/badge/Cassandra-1d657e.svg?logo=apachecassandra&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-419441.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+</p>
