@@ -9,7 +9,14 @@
 - 📫 My email address is khawslee@gmail.com.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-[linkedin]: https://www.linkedin.com/in/siang-lee-khaw-6796391b6 "Siang Lee, Khaw LinkedIn"
+[linkedin]: https://www.linkedin.com/in/khawslee "Siang Lee, Khaw LinkedIn"
+
+### Operating System
+
+<p>
+arm
+centos
+</p>
 
 ### Software and tools
 
@@ -26,8 +33,6 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2a1e52?logo=eclipseide&logoColor=white"></a>
     <a href="#"><img alt="MSOffice" src="https://img.shields.io/badge/Microsoft%20Office-28528e?logo=microsoftoffice&logoColor=white"></a>
     <a href="#"><img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498db?logo=xamarin&logoColor=white"></a>
-    <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/Cordova-000000?logo=apachecordova&logoColor=white"></a>
-    <a href="#"><img alt="Intel XDK" src="https://img.shields.io/badge/Intel%20XDK-1f458e?logo=intel&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-018e36?logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Apache WebServer" src="https://img.shields.io/badge/Apache%20Web-e68822?logo=apache&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-228ee1?logo=docker&logoColor=white"></a>
@@ -83,4 +88,35 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-419441.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120.svg?logo=cloudflare&logoColor=white"></a>    
+</p>
+
+### Data analytics and python libraries
+
+<p>
+    <a href="#"><img alt="Opencv" src="https://img.shields.io/badge/Opencv-0000f2.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-e2482a.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="Scikitlearn" src="https://img.shields.io/badge/Scikit learn-3191c3.svg?logo=scikitlearn&logoColor=white"></a>
+    <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-00509e.svg?logo=scipy&logoColor=white"></a>
+    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-0f94f1.svg?logo=dash&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-150458.svg?logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-150458.svg?logo=Flask&logoColor=white"></a>
+    <a href="#"><img alt="EvalML" src="https://img.shields.io/badge/EvalML-7e48b4.svg?logo=automl&logoColor=white"></a>
+</p>
+
+### Frameworks
+
+<p>
+    <a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-4d29c9.svg?logo=dotnet&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+    <a href="#"><img alt="Intel XDK" src="https://img.shields.io/badge/Intel%20XDK-1f458e?logo=intel&logoColor=white"></a>
 </p>
