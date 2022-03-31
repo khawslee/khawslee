@@ -45,6 +45,7 @@ centos
     <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/R%20Studio-2064b4?logo=rstudio&logoColor=white"></a>
     <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-2892e8?logo=WakaTime&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-e95723?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Enterprise Architect" src="https://img.shields.io/badge/Enterprise%20Architect-073d74?logo=logoColor=white"></a>
 </p>
 
 ### Programming languages
@@ -101,10 +102,10 @@ centos
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-e2482a.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Scikitlearn" src="https://img.shields.io/badge/Scikit learn-3191c3.svg?logo=scikitlearn&logoColor=white"></a>
     <a href="#"><img alt="Scipy" src="https://img.shields.io/badge/Scipy-00509e.svg?logo=scipy&logoColor=white"></a>
-    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-0f94f1.svg?logo=dash&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-150458.svg?logo=Django&logoColor=white"></a>
+    <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-0f94f1.svg?logo=dash&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-150458.svg?logo=Flask&logoColor=white"></a>
-    <a href="#"><img alt="EvalML" src="https://img.shields.io/badge/EvalML-7e48b4.svg?logo=automl&logoColor=white"></a>
+    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white"></a>
 </p>
 
 ### Frameworks
@@ -117,6 +118,5 @@ centos
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
     <a href="#"><img alt="Intel XDK" src="https://img.shields.io/badge/Intel%20XDK-1f458e?logo=intel&logoColor=white"></a>
 </p>
