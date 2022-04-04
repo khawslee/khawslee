@@ -42,6 +42,7 @@ centos
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37726.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google Colab-dc6b09.svg?logo=googlecolab&logoColor=white"></a>
     <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder%20IDE-e21b22?logo=spyderide&logoColor=white"></a>
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-1ace84?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/R%20Studio-2064b4?logo=rstudio&logoColor=white"></a>
     <a href="#"><img alt="Weka" src="https://img.shields.io/badge/Weka-2892e8?logo=WakaTime&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-e95723?logo=postman&logoColor=white"></a>
