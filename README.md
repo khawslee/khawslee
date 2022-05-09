@@ -11,13 +11,6 @@
 
 [linkedin]: https://www.linkedin.com/in/khawslee "Siang Lee, Khaw LinkedIn"
 
-### Operating System
-
-<p>
-arm
-centos
-</p>
-
 ### Software and tools
 
 <p>
