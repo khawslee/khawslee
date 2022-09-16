@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on Autonomous Vehicle projects.
-- 📫 My email address is khawslee@gmail.com.
+- 📫 My email address is khawslee@gmail.com
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 [linkedin]: https://www.linkedin.com/in/khawslee "Siang Lee, Khaw LinkedIn"
@@ -80,7 +80,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-419441.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120.svg?logo=cloudflare&logoColor=white"></a>    
+    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-f48120.svg?logo=cloudflare&logoColor=white"></a>
 </p>
 
 ### Data analytics and python libraries
@@ -97,6 +97,12 @@
     <a href="#"><img alt="Dash" src="https://img.shields.io/badge/Dash-0f94f1.svg?logo=dash&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-150458.svg?logo=Flask&logoColor=white"></a>
     <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white"></a>
+    <a href="#"><img alt="PySpark" src ="https://img.shields.io/badge/PySpark-d6551b.svg?logo=apachespark&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0000f2.svg?logo=Plotly&logoColor=white"></a>
+    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-a61924.svg?logo=Plotly&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43853D.svg?logo=Plotly&logoColor=white"></a>
+    <a href="#"><img alt="PyQt" src="https://img.shields.io/badge/PyQt-419441.svg?logo=Plotly&logoColor=white"></a>
+    <a href="#"><img alt="Statsmodels" src="https://img.shields.io/badge/Statsmodels-0f94f1.svg?logo=Plotly&logoColor=white"></a>
 </p>
 
 ### Frameworks
@@ -109,5 +115,4 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="Intel XDK" src="https://img.shields.io/badge/Intel%20XDK-1f458e?logo=intel&logoColor=white"></a>
 </p>
